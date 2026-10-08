@@ -1,0 +1,6 @@
+{
+  "name": "raportfinansowy24-social-listening-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "bun index.ts" }
+}
